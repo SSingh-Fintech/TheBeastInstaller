@@ -1,0 +1,2 @@
+# TheBeastInstaller
+Installer for TheBeast
