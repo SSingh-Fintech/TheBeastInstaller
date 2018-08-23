@@ -1,6 +1,6 @@
 !include "MUI2.nsh"
 !include "FileFunc.nsh"
-delete
+
 Name "TheBeast"
 OutFile "TheBeastInstall.exe"
 AllowRootDirInstall true
